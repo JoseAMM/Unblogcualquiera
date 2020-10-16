@@ -10,13 +10,13 @@ divisionentera=5
 exponente= 6
 modulo= 7
 #####################################
-print("Suma: 1")
-print("Resta: 2")
-print("Multiplicación: 3")
+print("Suma: 1 \n")
+print("Resta: 2 \n")
+print("Multiplicación: 3 \n")
 print("Division: 4")
-print("Division Entera: 5")
-print("Exponente: 6")
-print("Modulo: 7")
+print("Division Entera: 5 \n")
+print("Exponente: 6 \n")
+print("Modulo: 7 \n")
 ####################################
 opcion= int(input("Introduce la opcion deseada: \n"))
 if opcion== 1:
